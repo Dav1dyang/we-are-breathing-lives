@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(255, 255, 255);
+  }
+  
+#popup {
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: small;
+    color: rgb(255, 255, 255);
+    -webkit-align-self: center; /* Safari 7.0+ */
+    align-self: center;
+    
+  }
+  
+  title {
+
+    /* border-top: 0px solid #ff3943; */
+    background-size: 30px;
+    
+  }
+
+  main {background-color: #3995ff;}
